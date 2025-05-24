@@ -153,7 +153,10 @@ Uses `@Scheduled` tasks to automatically send payment reminders to borrowers wit
 | Name              | Role                                        |
 | ----------------- | ------------------------------------------- |
 | Silas Hakuzwimana | Backend Developer                           |
+
 | Ange Thierry NIYONZIMA| Frontend Developer (Invite to collaborate!) 
+=======
+| Ange Thierry      | Frontend Developer (Invite to collaborate!) |
 
 ---
 
@@ -173,7 +176,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 Have suggestions or found a bug?
 
+
 * 📩 Email: [hakuzwisilas@gmail.com](mailto:hakuzwisilas@gmail.com) 
+=======
+* 📩 Email: [hakuzwisilas@gmail.com](mailto:hakuzwisilas@gmail.com)
 * 💬 Open an issue on [GitHub Issues](https://github.com/SilasHakuzwimana/loan-management-system/issues)
 
 ---

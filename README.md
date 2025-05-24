@@ -153,7 +153,7 @@ Uses `@Scheduled` tasks to automatically send payment reminders to borrowers wit
 | Name              | Role                                        |
 | ----------------- | ------------------------------------------- |
 | Silas Hakuzwimana | Backend Developer                           |
-| \[You?]           | Frontend Developer (Invite to collaborate!) |
+| Ange Thierry NIYONZIMA| Frontend Developer (Invite to collaborate!) 
 
 ---
 
